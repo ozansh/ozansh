@@ -32,20 +32,16 @@ My Social Accounts
 ------------------
 
 
-
-[![Linkedin](/assets/social/linkedin.png)](https://www.linkedin.com/in/ozancakmakirl/)
-[![Medium](/assets/social/medium.png)](https://medium.com/@ozansh-bak)
-[![Stack Overflow](/assets/social/stack.png)](https://stackoverflow.com/users/22940529/ozan)
-[![GitHub](/assets/social/github.png)](https://github.com/ozansh)
+![Linkedin](https://www.linkedin.com/in/ozancakmakirl/)
+![Medium](https://medium.com/@ozansh-bak)
+![Stack Overflow](https://stackoverflow.com/users/22940529/ozan)
+![GitHub](https://github.com/ozansh)
 
 
 
 How to Reach Me
 ---------------
 
-
-
-![Email Icon](/assets/icons/emailpng.png)
 Email: ozan42.public@gmail.com
 
 Discord ID: ozan.sh
